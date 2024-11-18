@@ -7,4 +7,5 @@ I'm a student at IUH.
 - Project 2
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tinhk4)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tinhk4&theme=dark&hide_border=true)
+
